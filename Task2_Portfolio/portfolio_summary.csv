@@ -1,0 +1,3 @@
+Ticker,Shares,Buy Price ($),Current Price ($),Invested ($),Market Value ($),Gain/Loss ($),Gain/Loss (%)
+AAPL,10.0,150.00,100.00,1500.00,1000.00,-500.00,-33.33%
+MSFT,5.0,300.00,100.00,1500.00,500.00,-1000.00,-66.67%
