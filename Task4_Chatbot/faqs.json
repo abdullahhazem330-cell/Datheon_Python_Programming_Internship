@@ -1,0 +1,32 @@
+[
+  {
+    "intent": "greeting",
+    "keywords": ["hello", "hi", "hey", "greetings"],
+    "response": "Hello! Welcome to Customer Support. How can I assist you today?"
+  },
+  {
+    "intent": "hours",
+    "keywords": ["hours", "open", "time", "schedule", "working"],
+    "response": "Our official business hours are Monday through Friday, 9:00 AM to 5:00 PM."
+  },
+  {
+    "intent": "location",
+    "keywords": ["location", "address", "where", "office", "headquarters"],
+    "response": "Our headquarters is located at 123 Tech Avenue, Suite 400, Cairo, Egypt."
+  },
+  {
+    "intent": "services",
+    "keywords": ["services", "courses", "offer", "tracks", "programs"],
+    "response": "We offer training programs in Python Programming, AI Development, and Data Science."
+  },
+  {
+    "intent": "contact",
+    "keywords": ["contact", "email", "phone", "support", "call", "reach"],
+    "response": "You can contact support via email at support@datheon.com or call +20 123 456 7890."
+  },
+  {
+    "intent": "refund",
+    "keywords": ["refund", "policy", "money", "cancel"],
+    "response": "Refund requests must be submitted within 14 days of enrollment via our support portal."
+  }
+]
