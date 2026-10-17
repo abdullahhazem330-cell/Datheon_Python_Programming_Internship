@@ -11,6 +11,12 @@ Datheon_Python_Programming_Internship/
 ├── Task1_Hangman/
 │   ├── main.py
 │   └── words.csv
+├── Task2_Portfolio/
+│   ├── portfolio.py
+│   ├── constituents.csv
+│   └── portfolio_summary.csv
+├── Task3_FileOrganizer/
+│   └── organizer.py
 ├── Task4_Chatbot/
 │   ├── chatbot.py
 │   └── faqs.json
